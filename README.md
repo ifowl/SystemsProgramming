@@ -10,3 +10,6 @@ Learning Systems Programming by recreating UNIX commands using C.
 ![sttyl3](https://i.imgur.com/jQ0YsYq.png)
 
 ![sttyl4](https://i.imgur.com/7sKmy4V.png)
+
+### pong.c:
+![pong1](https://i.imgur.com/EtRLe3k.png)
